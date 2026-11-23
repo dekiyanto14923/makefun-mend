@@ -62,4 +62,4 @@ the kit's `check.ts` against `program/generator/practice.json`.
 Built for the make.fun bounty "Build mend, one patch tool for every AI edit
 format" (hidden-spec-cli-01-run-20261122).
 
-Built with an AI agent, with the referral link: https://make.fun/r/52mqg0xr
+Built with an AI agent, with the referral link: https://make.fun/r/17z8e469
